@@ -1,5 +1,5 @@
 {
-  "name": "gifted-md@2.5.0",
+  "name": "Theodore",
   "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better\n\t if Any Problem Whatsapp Me on: +254728782591",
   "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
   "keywords": ["whatsappbot", "giftedlMd", "gifted Md bot", "Gifted-Md", "GiftedMdWhatsaooBot", "GiftedWaBot","GiftedMD","Gifted Md Whatsapp Bot","multi device"],
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Gifted Tech",
+      "value": "Theodoreliboma",
       "required" :true
     },   
      
@@ -100,11 +100,11 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254728782591,254762016957,254110853827,254728746852"
+      "value": "263718228938,263778549178"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
-      "value": ""
+      "value": "Gifted;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNEk3eDFvZGhRMWNtUmRXa2dHbEx5NSt2WEpKalVONWsyd1BVQWV4UnkyTT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVS9RTnV6Uk1YNFNqc3lkTHFlczJ1dVpxc1ZnTXVKSHZobjY3aXhBOGZ5ND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJtSGJEN3FMN1pRNnM4b1ArK0ovdksvMU9DNEVGMC9XTGdjNFl2TWhpQUdFPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIyb2pWZGF0TDJtZXl2K2RTdVFCYTlOTjNzdFFpZWpVaHZiNDZoU0hrN0I0PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IklLUFlZcXNxRE5TUGVuTkNreGg4ZHA3VVZnZlBqeU1aUnZCS1FnbERwRTA9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImkvWGJEa1JNSVVUV1VGc1JnanlFWkFKeHlpdEtQZFVhSUVNYS9UUUg3U3c9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib0tTRGNzbWVGakN4VXRqRE9uNzRFSjdWRWJVYXhJQmo3RHdFT0loVHNWND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV2Ywc1JlQjV6c1h0ak1uTlV6V3JpTDZPT2NlVzZsOGpwd1RSQnVCRnJXcz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IldNU016eE1sMlBTbUd6eXF6emtmZHdqUUw4UUNJRGI1WHN3bFVuRUY0dklXLzdLWXE3cDdvNmRkTDg4cXVzdHgvb1doT1BiRXRFT1lZL1VLb1Y3c2pnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjM4LCJhZHZTZWNyZXRLZXkiOiJNTXJ5RytCTFovZnpxMU1KVnZkSEkzSnkrS0ErcVUvSi9zVzg3VzBhWE5VPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiIyNkVLVk1tdVRaLVJhRzkxQVpya3VRIiwicGhvbmVJZCI6IjQ5MWNhZDFiLTczNDctNGU0OS05Zjg4LWQ1NTVhMzBhYzBhOSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJkalI1aU5BclZMeVJkbVhORENoRzFKM3Rhb0E9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicGdVUTF4M0hObElGNjdMSS8rVjVrTnk4SWlJPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IldONTVYSldRIiwibWUiOnsiaWQiOiIyNjM3NzE2MDA4MTM6N0BzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiJXVC5XTUIuWU4ifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0phaTN0b0JFTHFQdmJFR0dBRT0iLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoidXROS2FyN2U3dTIzUHJwZWJYUXZTUFZjRTFOSXZ6cHBadFNiMEl6QWFnZz0iLCJhY2NvdW50U2lnbmF0dXJlIjoiT3NDNkhPZ2JSdkRJS3A0aStiMHFoeFg3TnhGY1VwUUpJTHhld2wyM3dLYW1mVlRqZkR4TWRYWWJCc045aGZwRVpkZlJWRkRXQ2VVaENTeHh0VERRQ3c9PSIsImRldmljZVNpZ25hdHVyZSI6IkNKaXJXRmYxbW1iUDVLQ1NScTREYkUzdFRiZU5DUEg1RVViT3A5cllDQ0FOdGtqN1J6UXFwTnkrcG4vTU9XeXVGRXV1SHFMcTEwbzB4TEQweStRaGpnPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjYzNzcxNjAwODEzOjdAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCYnJUU21xKzN1N3R0ejY2WG0xMEwwajFYQk5UU0w4NmFXYlVtOUNNd0dvSSJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcxNDM3NDU5OSwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFCTWEifQ=="
   
     },
     "OPENAI_API_KEY": {
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Gifted Md",
+      "value": "Theodore",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "Gifte Tech",
+      "value": "liboma",
       "required": false 
     },
     "STACK": {
